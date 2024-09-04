@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-pages-posts-tsx",
     "path": "/posts/",
-    "result": {"data":{"allMarkdownRemark":{"nodes":[{"fields":{"slug":"/첫번째-테스트/"},"frontmatter":{"title":"두번째 테스트 잘 작동?","date":"2024-08-06T16:43:27.000Z","image":{"publicURL":"/static/ad7fc06b0b5679d92b732ed939635d23/01.jpg"},"draft":false}}]}},"pageContext":{}},
+    "result": {"data":{"allMarkdownRemark":{"nodes":[{"fields":{"slug":"/첫번째-테스트/"},"frontmatter":{"title":"첫번째?","date":"2024-08-06T16:43:27.000Z","image":{"publicURL":"/static/ad7fc06b0b5679d92b732ed939635d23/01.jpg"},"draft":false}}]}},"pageContext":{}},
     "staticQueryHashes": ["2580406332","3810308631"]}
